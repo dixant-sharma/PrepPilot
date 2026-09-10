@@ -9,7 +9,7 @@
 
 **PrepPilot AI** is an enterprise-grade AI mock interview and career coaching SaaS platform designed to simulate realistic job interviews, analyze candidate responses in real time, and build long-term career readiness memory. It leverages LLMs via OpenRouter, Web Speech API audio transcription & synthesis, in-memory PDF parsing, STAR framework evaluation, and automated performance tracking.
 
-[🔗 Live Demo](https://preppilot-ai.example.com) • [📁 GitHub Repository](https://github.com/your-username/preppilot-ai) • [📖 Documentation](#-table-of-contents)
+[🔗 Live Demo](https://preppilot-ai-six.vercel.app/) • [📁 GitHub Repository](https://github.com/your-username/preppilot-ai) • [📖 Documentation](#-table-of-contents)
 
 ---
 
